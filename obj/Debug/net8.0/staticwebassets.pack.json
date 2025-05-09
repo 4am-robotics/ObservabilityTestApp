@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "d:\\Dev\\OtelTest\\OtelBlazorSig\\BlazorApptest2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApptest2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApptest2.bundle.scp.css"
+    },
+    {
+      "Id": "d:\\Dev\\OtelTest\\OtelBlazorSig\\BlazorApptest2\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "d:\\Dev\\OtelTest\\OtelBlazorSig\\BlazorApptest2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "d:\\Dev\\OtelTest\\OtelBlazorSig\\BlazorApptest2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "d:\\Dev\\OtelTest\\OtelBlazorSig\\BlazorApptest2\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApptest2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorApptest2.props",
+      "PackagePath": "build\\BlazorApptest2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApptest2.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApptest2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorApptest2.props",
+      "PackagePath": "buildTransitive\\BlazorApptest2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

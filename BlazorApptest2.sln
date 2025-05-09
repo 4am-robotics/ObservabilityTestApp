@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApptest2", "BlazorApptest2.csproj", "{D54E2200-2C77-F65A-404B-A1BBA6326739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppGrafanaStack", "..\..\BlazorAppGrafanaStack\BlazorAppGrafanaStack.csproj", "{A8D3571D-BAF0-4692-AD8E-66047629114B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54E2200-2C77-F65A-404B-A1BBA6326739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54E2200-2C77-F65A-404B-A1BBA6326739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54E2200-2C77-F65A-404B-A1BBA6326739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54E2200-2C77-F65A-404B-A1BBA6326739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D3571D-BAF0-4692-AD8E-66047629114B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D3571D-BAF0-4692-AD8E-66047629114B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D3571D-BAF0-4692-AD8E-66047629114B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D3571D-BAF0-4692-AD8E-66047629114B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A499F22-E475-48C4-80FF-A277620DD39E}
+	EndGlobalSection
+EndGlobal
